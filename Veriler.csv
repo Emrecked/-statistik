@@ -1,4 +1,4 @@
-"","       m²","Oda Sayısı"," Bina Yaşı"," Bulunduğu Kat","Kat Sayısı","Isıtma","Banyo Sayısı","Balkon","Eşyalı/sız","Sahibinden/Emlak"," Cephe","Asansör","Ulaşım","Manzara","Muhit","Fiyat","Site İçerisinde","    İlçe"
+"Veri","m²","Oda Sayısı"," Bina Yaşı"," Bulunduğu Kat","Kat Sayısı","Isıtma","Banyo Sayısı","Balkon","Eşyalı/sız","Sahibinden/Emlak"," Cephe","Asansör","Ulaşım","Manzara","Muhit","Fiyat","Site İçerisinde","    İlçe"
 "1.",100,3,0,1,4,"Doğalgaz",1,"Var","Eşyalı","Emlak","Batı","Var","Var","Şehir","uygun",1300,"Hayır","Bozüyük"
 "2.","125","4","0","6","6","Doğalgaz","2","Var","Eşyasız","Emlak","Doğu","Var","Var","Şehir","uygun","1250","Hayır","Bozüyük"
 "3.","125","4","0","2","6","Doğalgaz","1","Var","Eşyasız","Emlak","Doğu","Var","Yok","Doğa","uygunsuz","850","Hayır","Bozüyük"
