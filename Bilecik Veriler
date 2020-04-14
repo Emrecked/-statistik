@@ -1,4 +1,4 @@
-"Metrekare cinsinden evin boyutu","Oda Sayisi"," Bina Yasi","Dairenin Bulundugu Kat","Kat Sayisi","Isitma","Banyo Sayisi","Balkon","Daire icinde esya var/yok","Sahibinden/Emlak","Cephe","Asansor","Ulasim","Manzara","Muhit","Fiyat","Site Icerisinde","İlce"
+"Metrekare.cinsinden.evin.boyutu","Oda.Sayisi"," Bina.Yasi","Dairenin.Bulundugu.Kat","Kat.Sayisi","Isitma","Banyo.Sayisi","Balkon","Daire.icinde.esya.var/yok","Sahibinden/Emlak","Cephe","Asansor","Ulasim","Manzara","Muhit","Fiyat","Site.Icerisinde","İlce"
 100,3,0,1,4,"Dogalgaz",1,"Var","Var","Emlak","Bati","Var","Var","Sehir","Uygun",1300,"Hayir","Bozuyuk"
 125,4,0,6,6,"Dogalgaz",2,"Var","Yok","Emlak","Dogu","Var","Var","Sehir","Uygun",1250,"Hayir","Bozuyuk"
 125,4,0,2,6,"Dogalgaz",1,"Var","Yok","Emlak","Dogu","Var","Yok","Doga","Uygunsuz",850,"Hayir","Bozuyuk"
