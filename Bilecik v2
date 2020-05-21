@@ -1,7 +1,7 @@
 "Metrekare","Oda.Sayisi","Bina.Yasi","Daire.Kati","Kat.Sayisi","Isitma","Banyo.Sayisi","Balkon","Esya","Sahibinden/Emlak","Cephe","Asansor","Ulasim","Manzara","Muhit","Fiyat","Site.Icerisinde","Ilce"
 100,3,0,1,4,"Dogalgaz",1,"1","1","Emlak","Bati","1","1","Sehir","1",1300,"0","Bozuyuk"
 125,4,0,6,6,"Dogalgaz",2,"1","0","Emlak","Dogu","1","1","Sehir","1",1250,"0","Bozuyuk"
-125,4,0,2,6,"Dogalgaz",1,"1","0","Emlak","Dogu","1","0","Doga","1suz",850,"0","Bozuyuk"
+125,4,0,2,6,"Dogalgaz",1,"1","0","Emlak","Dogu","1","0","Doga","0",850,"0","Bozuyuk"
 75,2,10,5,6,"Dogalgaz",1,"1","0","Emlak","Guney","1","1","Sehir","1",600,"1","Bozuyuk"
 100,3,15,2,2,"Dogalgaz",1,"1","0","Emlak","Guney","0","1","Sehir","1",550,"0","Merkez"
 110,3,9,0,4,"Dogalgaz",1,"1","0","Emlak","Dogu","0","1","Sehir","1",550,"0","Merkez"
